@@ -1,0 +1,2 @@
+# causal-inference-for-cancer-recurrence---causal-and-predictive-modeling
+This project investigates the causal effect of chemotherapy on breast cancer recurrence using advanced causal inference methods such as DAG construction, confounder adjustment, inverse probability weighting, and bootstrap hypothesis testing. Several predictive models are implemented, tuned and interpreted to complete an integral workpiece.
