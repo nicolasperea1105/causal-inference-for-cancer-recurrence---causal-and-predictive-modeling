@@ -9,7 +9,7 @@ Created on Mon Apr 28 14:02:06 2025
 import pandas as pd
 from sklearn.preprocessing import OrdinalEncoder, OneHotEncoder
 
-clinic_data = pd.read_pickle("C:/Users/nicol/OneDrive/Desktop/Predicting cancer recurrence through causal inference/clinic_data_clean.pkl")
+clinic_data = pd.read_pickle("myfilepath")
 
 
     ## Functions used:
