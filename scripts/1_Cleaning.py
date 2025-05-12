@@ -13,7 +13,7 @@ import joblib
 from sklearn.base import BaseEstimator, TransformerMixin
 from sklearn.pipeline import Pipeline
 
-clinic_data = pd.read_csv("C:/Users/nicol/Downloads/brca_metabric_clinical_data.tsv",
+clinic_data = pd.read_csv("myfilepath",
                           sep = '\t')
 
 
