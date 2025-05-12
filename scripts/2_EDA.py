@@ -12,7 +12,7 @@ import seaborn as sns
 from matplotlib import pyplot as plt
 
 
-clinic_data = pd.read_pickle("C:/Users/nicol/OneDrive/Desktop/Predicting cancer recurrence through causal inference/clinic_data_clean.pkl")
+clinic_data = pd.read_pickle("myfilepath")
 
 clinic_data.dtypes
 
