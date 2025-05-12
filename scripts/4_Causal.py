@@ -17,7 +17,7 @@ import statsmodels.formula.api as smf
 
 np.random.seed(42)
 
-clinic_data = pd.read_pickle("C:/Users/nicol/OneDrive/Desktop/Predicting cancer recurrence through causal inference/clinic_data_engineered.pkl")
+clinic_data = pd.read_pickle("myfilepath")
     
 
         ## Used functions:
